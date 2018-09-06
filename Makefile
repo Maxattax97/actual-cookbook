@@ -1,5 +1,5 @@
 all:
-	@echo "Not yet implemented."
+	markdown-pdf ./*/*.md --out cookbook.pdf
 
 clean:
 	rm *.pdf
