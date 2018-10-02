@@ -1,4 +1,5 @@
-# Parmesan Chicken 
+# Parmesan Chicken
+
 | Property         | Value      |
 |-----------------:|:-----------|
 | Approximate Cost | $4.49      |
@@ -6,6 +7,15 @@
 | Preparation Time | 15 minutes |
 | Cook Time        | 15 minutes |
 | Total Time       | 30 minutes |
+
+## Table of Contents
+
+- [Parmesan Chicken](#parmesan-chicken)
+  - [Table of Contents](#table-of-contents)
+  - [Tools](#tools)
+  - [Ingredients](#ingredients)
+  - [Instructions](#instructions)
+  - [Gallery](#gallery)
 
 ## Tools
  - Medium skillet
