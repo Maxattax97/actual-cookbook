@@ -8,8 +8,8 @@ An actual cookbook... for actual food.
 
 ## Building
  1. Install `markdown-pdf` from `npm`.
-   - Execute `npm install -g markdown-pdf`
- 2. Execute `make` in this directory.
+ 2. Execute `npm install -g markdown-pdf`
+ 3. Execute `make` in this directory.
 
 ## License
 This project pays homage to Richard Stallman's classic analogy of a cook's recipes to a programmer's source code, and as such is licensed under [GPLv3](LICENSE).
