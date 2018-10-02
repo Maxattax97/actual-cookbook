@@ -1,4 +1,8 @@
 # Recipe Name
+
+## Description
+Description of the dish
+
 | Property         | Value      |
 |-----------------:|:-----------|
 | Approximate Cost | $6.49      |
