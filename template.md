@@ -1,10 +1,22 @@
 # Recipe Name
 
+## Table of Contents
+
+- [Recipe Name](#recipe-name)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Tools](#tools)
+  - [Ingredients](#ingredients)
+  - [Notes](#notes)
+  - [Instructions](#instructions)
+  - [Gallery](#gallery)
+
 ## Description
+
 Description of the dish
 
 | Property         | Value      |
-|-----------------:|:-----------|
+| ---------------- | ---------- |
 | Approximate Cost | $6.49      |
 | Servings         | 4          |
 | Preparation Time | 10 minutes |
