@@ -16,7 +16,7 @@ Swedish crepe style chocolate chip pancakes
 
 | Property         | Value      |
 |-----------------:|:-----------|
-| Approximate Cost | $X.XX      |
+| Approximate Cost | $3.50      |
 | Servings         | 5          |
 | Preparation Time | 10 minutes |
 | Cook Time        | 20 minutes |

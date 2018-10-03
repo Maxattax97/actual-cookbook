@@ -16,7 +16,7 @@ Extremely unhealthy oatmeal cookies
 
 | Property         | Value      |
 |-----------------:|:-----------|
-| Approximate Cost | $5.00      |
+| Approximate Cost | $6.00      |
 | Servings         | 20 cookies |
 | Preparation Time | 10 minutes |
 | Cook Time        | 20 minutes |
