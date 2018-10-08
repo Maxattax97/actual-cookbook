@@ -1,8 +1,8 @@
-# BBQ Pineable Burger
+# BBQ Pineapple Burger
 
 ## Table of Contents
 
-- [BBQ Pineable Burger](#bbq-pineable-burger)
+- [BBQ Pineapple Burger](#bbq-pineapple-burger)
     - [Table of Contents](#table-of-contents)
     - [Description](#description)
     - [Tools](#tools)
@@ -42,8 +42,6 @@ Description of the dish
     - 4 slices of cheese
 - Grilled Pineapple
     - 8 slices pineapple or pineapple rings
-    - 1 tablespoon olive oil
-    - 2 tablespoons honey
 - Other Fixins
     - BBQ sauce 
     - 4 hamburger buns , toasted and warmed
@@ -78,10 +76,8 @@ Total you should have cooked onions for 30 minutes. Remove from heat and sprinkl
 In the last minute of cooking, arrange a slice or two of cheddar cheese on top of each hamburger patty to melt.
 
 ### How to grill pineapple:
-1. In a microwave, melt honey just a little bit, add 1 tablespoon of olive oil and combine – in a medium bowl. 
-2. Add pineapple slices (or rings) to the bowl and stir to coat the pineapple slices.
-3. At the same time you’re grilling hamburgers, place pineapple on the grill and cook for about 3 or 4 minutes on each side. 
-4. Remove from the grill and keep warm.
+1. At the same time you’re grilling hamburgers, place pineapple on the grill and cook for about 3 or 4 minutes on each side. 
+2. Remove from the grill and keep warm.
 
 ### Assemble burgers:
 
