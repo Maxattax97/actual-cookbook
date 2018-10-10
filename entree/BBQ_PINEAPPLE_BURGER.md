@@ -89,3 +89,6 @@ In the last minute of cooking, arrange a slice or two of cheddar cheese on top o
 6. Close with the top bun, if desired, or serve these as open-faced hamburgers.
 
 ## Gallery
+
+![](/assets/BBQ_PB_1.png)
+![](/assets/BBQ_PB_2.png)
