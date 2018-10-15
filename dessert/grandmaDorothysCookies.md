@@ -43,7 +43,7 @@ Extremely unhealthy oatmeal cookies
  - Chocolate chips
 
 ## Notes
-If you are impatient, the chilling step can be skipped, but cookies will not thicker and not as crisp
+If you are impatient, the chilling step can be skipped, but cookies will be thicker and not as crisp
 
 ## Instructions
  1. Preheat oven to 350 degrees
