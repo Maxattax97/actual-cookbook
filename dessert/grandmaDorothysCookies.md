@@ -14,13 +14,13 @@
 ## Description
 Extremely unhealthy oatmeal cookies
 
-| Property         | Value      |
-|-----------------:|:-----------|
-| Approximate Cost | $6.00      |
-| Servings         | 20 cookies |
-| Preparation Time | 10 minutes |
-| Cook Time        | 20 minutes |
-| Total Time       | 30 minutes |
+| Property         | Value         |
+|-----------------:|:--------------|
+| Approximate Cost | $6.00         |
+| Servings         | 30-40 cookies |
+| Preparation Time | 20 minutes    |
+| Cook Time        | 20 minutes    |
+| Total Time       | 40 minutes    |
 
 ## Tools
  - Large mixing bowl
@@ -52,7 +52,7 @@ If you are impatient, the chilling step can be skipped, but cookies will be thic
  4. Chill in fridge for 1 hour
  5. Remove and slice cookie dough thinly with a sharp knife
  6. Place cookie dough slices on greased cookie sheet
- 7. Bake for 10-12 minutes
+ 7. Bake for 12-15 minutes
  8. Remove from cookie sheet and allow to cool
  9. Enjoy
 
