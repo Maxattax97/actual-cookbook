@@ -16,15 +16,16 @@ New York Times' Marcella Hazan’s veal pasta sauce. An easier variation of her 
 
 | Property         | Value      |
 |-----------------:|:-----------|
-| Approximate Cost | $XX.XX     |
+| Approximate Cost | $07.50     |
 | Servings         | 4 - 6      |
-| Preparation Time | XX minutes |
-| Cook Time        | XX minutes |
-| Total Time       | XX minutes |
+| Preparation Time | 15 minutes |
+| Cook Time        | 15 minutes |
+| Total Time       | 30 minutes |
 
 ## Tools
- - XXXX
- - XXXX
+ - Small saucepan
+ - Large pot
+ - Large mixing spoon
 
 ## Ingredients
  - 3/4 pound fresh, ripe tomatoes or 1 cup canned imported Italian plum tomatoes

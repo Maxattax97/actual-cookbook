@@ -16,14 +16,15 @@ New York Times' Marcella Hazan’s Bologense pasta sauce
 
 | Property         | Value      |
 |-----------------:|:-----------|
-| Approximate Cost | $XX.XX     |
+| Approximate Cost | $10.00     |
 | Servings         | 6          |
 | Preparation Time | 1 hour     |
 | Cook Time        | 3 hours    |
 | Total Time       | 4+ hours   |
 
 ## Tools
- - Large Pot
+ - Large pot
+ - Medium saucepan
  - Large mixing spoon
 
 ## Ingredients
@@ -45,7 +46,7 @@ New York Times' Marcella Hazan’s Bologense pasta sauce
 Serve with freshly grated parmigiano-reggiano cheese at the table
 
 ## Instructions
- 1. Put the oil, butter and chopped onion in the pot and turn the heat on to medium. Cook and stir the onion until it has become translucent, then add the chopped celery and carrot. Cook for about 2 minutes, stirring vegetables to coat them well.
+ 1. Put the oil, butter and chopped onion in the saucepan and turn the heat on to medium. Cook and stir the onion until it has become translucent, then add the chopped celery and carrot. Cook for about 2 minutes, stirring vegetables to coat them well.
  2. Add ground beef, a large pinch of salt and a few grindings of pepper. Crumble the meat with a fork, stir well and cook until the beef has lost its raw, red color.
  3. Add milk and let it simmer gently, stirring frequently, until it has bubbled away completely. Add a tiny grating -- about 1/8 teaspoon -- of nutmeg, and stir.
  4. Add the wine, let it simmer until it has evaporated, then add the tomatoes and stir thoroughly to coat all ingredients well. When the tomatoes begin to bubble, turn the heat down so that the sauce cooks at the laziest of simmers, with just an intermittent bubble breaking through to the surface. 
