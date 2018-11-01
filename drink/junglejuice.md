@@ -1,4 +1,4 @@
-# Peppermint Patty
+# Jungle Juice
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@
 - [Gallery](#gallery)
 
 ## Description
-A favorite Christmas time party drink
+A favorite party drink, good alternative for those who do not enjoy beer
 
 | Property         | Value      |
 |-----------------:|:-----------|
@@ -27,18 +27,20 @@ A favorite Christmas time party drink
  - Large mixing spoon
 
 ## Ingredients
- - 1 handle peppermint schnapps
- - 14 1/4 cups (40 servings) of hot chocolate mix
+ - 1/2 handle Everclear or 1 handle vodka
+ - 14 1/4 cups (40 servings) of powdered drink mix
  - 3.75 gal water
+ - Large amounts of ice
  
 ## Notes
-As with any party drink, be sure to use an approximate 1:8 ratio of 80 proof liquor to other ingredients for safety. This keeps the drink's strength approximately the same as beer.
+As with any party drink, be sure to use an approximate 1:16 ratio of 190 proof liquor (or 1:8 for 80 proof) to other ingredients for safety. This keeps the drink's strength approximately the same as beer.
 
 ## Instructions
- 1. Add peppermint schnapps to cooler
- 2. Mix hot water and hot chocolate mix into cooler as directed on package
+ 1. Add everclear ice to cooler
+ 2. Mix cold and hot chocolate mix into cooler as directed on package
  3. Stir thoroughly 
- 4. Serve immediately
- 5. Enjoy
+ 4. Taste and adjust drink mix and everlear to taste
+ 5. Serve immediately
+ 6. Enjoy
 
 ## Gallery
