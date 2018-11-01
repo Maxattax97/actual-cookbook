@@ -90,5 +90,5 @@ In the last minute of cooking, arrange a slice or two of cheddar cheese on top o
 
 ## Gallery
 
-![](/assets/BBQ_PB_1.png)
-![](/assets/BBQ_PB_2.png)
+![Burger-1](/assets/BBQ_PB_1.png)
+![Burger-2](/assets/BBQ_PB_2.png)
